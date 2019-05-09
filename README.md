@@ -1,5 +1,6 @@
 # Psychic Letter guessing game
 
+# URL: https://sidetrack-ca.github.io/W3-Psychic/
 
 ## Instructions
 
